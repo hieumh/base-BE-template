@@ -55,6 +55,7 @@ Access the API documentation at http://localhost:3000/api/docs for detailed info
 
 ## Project Structure
 
+```
 /src
 |-- auth
 | |-- auth.controller.ts
@@ -69,7 +70,7 @@ Access the API documentation at http://localhost:3000/api/docs for detailed info
 | |-- user.service.ts
 |-- app.controller.ts
 |-- app.module.ts
-|-- main.ts
+```
 
 ## Configuration
 
